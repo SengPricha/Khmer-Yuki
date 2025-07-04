@@ -1,0 +1,47 @@
+{
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "khmer": "Khmer",
+  "selectMoney": "Select a money note",
+  "titleMoney": "You don't have enough money!",
+  "txtMoney": "Please choose the animal you want to bet on first!",
+  "english": "English",
+  "start": "Start Game",
+  "about": "About Game",
+  "close": "Close",
+  "ready":"Get ready!",
+  "youwin": "You Win 🎉",
+  "youlose": "Your Lost😞",
+  "txtbox": "Bot is win",
+  "yourmoney":"Your Money",
+  "getmoney":"You received 50,000៛!",
+  "addmoney":"Add Money",
+  "result":"Bet placed, hands off!",
+  "open":"Open",
+  "restart":"Restart",
+  "title":"Support popular traditional games from our community",
+  "betWonMessage": "You won the bet and received {winnings} Riel",
+  "@betWonMessage": {
+    "placeholders": {
+      "winnings": {
+        "type": "String"
+      }
+    }
+  },
+  "no": "No",
+  "yes": "Yes",
+  "exitText": "Do you want to exit?",
+  "aboutText": "This Khmer Yuki game is similar to the traditional Kla Klok Game, but it features the 12 zodiac animals.How to play: \n - If you want to place a bet on an animal, simply tap on that animal. \n - Each tap places a bet of 10,000 riel or more. If you want to bet more, just tap the animal multiple times the total bet amount will increase accordingly. \n - If your chosen animal wins, you receive 10 times your bet plus your original amount.Example: If you bet 10,000៛ and win, you will receive 110,000៛.",
+  "exit": "Exit Game",
+  "currentLanguage": "Language: {language}",
+  "@currentLanguage": {
+    "placeholders": {
+      "language": {
+        "type": "String"  
+      }
+    }
+  },
+  "englishButton": "ខ្មែរ",
+  "khmerButton": "ENGLISH"
+}
